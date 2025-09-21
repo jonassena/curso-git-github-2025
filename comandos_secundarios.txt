@@ -4,3 +4,4 @@ Este arquivo contem informações adicionais para git
 - Segundo comando
 
 # Comandos mais genéricos
+- comandos estranhos
