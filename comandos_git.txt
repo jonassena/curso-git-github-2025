@@ -1,13 +1,13 @@
-git init .           -> cria um repo git na pasta atual
-git status           -> mostra o status do trabalho
-git add nome_arquivo -> adiciona arquivo para ser comitado
-git commit -m "msg"  -> faz commit do que estava para ser comitado
-git log              -> mostra todos o histórico de commit
-git reset            -> remove o arquivo do stage
-git branch           -> mostra as branchs que existem e indica a branch de trabalho
-git branch -b "nome" -> cria uma nova branch
-git checkout         -> muda de branch
-git merge            -> mescla as branchs
+git init .           	-> cria um repo git na pasta atual
+git status           	-> mostra o status do trabalho
+git add nome_arquivo 	-> adiciona arquivo para ser comitado
+git commit -m "msg"  	-> faz commit do que estava para ser comitado
+git log              	-> mostra todos o histórico de commit
+git reset            	-> remove o arquivo do stage
+git branch           	-> mostra as branchs que existem e indica a branch de trabalho
+git branch -b "nome" 	-> cria uma nova branch
+git checkout         	-> muda de branch
+git merge            	-> mescla as branchs
 
 
 Fluxo de Trabalho
@@ -17,6 +17,6 @@ Fluxo de Trabalho
 4 - git status
 5 - git add nome arquivo
 6 - git status
-7 - git commit -m "mensagem estranha"
+7 - git commit -m "Mensagem estranha"
 8 - git status
 9 - Volta para o passo 3
