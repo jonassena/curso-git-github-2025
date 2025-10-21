@@ -10,7 +10,7 @@ git checkout         	-> muda de branch
 git merge            	-> mescla as branchs
 
 
-Fluxo de Trabalho
+## Fluxo de Trabalho
 1 - Criar o diretório (pasta) do projeto
 2 - Iniciar o git dentro do diretório criado (git init .)
 3 - Edita ou criar arquivos
