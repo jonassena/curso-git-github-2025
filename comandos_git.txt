@@ -1,16 +1,16 @@
-git init .           -> cria um repo git na pasta atual
-git status           -> mostra o status do trabalho
-git add nome_arquivo -> adiciona arquivo para ser comitado
-git commit -m "msg"  -> faz commit do que estava para ser comitado
-git log              -> mostra todos o histórico de commit
-git reset            -> remove o arquivo do stage
-git branch           -> mostra as branchs que existem e indica a branch de trabalho
-git branch -b "nome" -> cria uma nova branch
-git checkout         -> muda de branch
-git merge            -> mescla as branchs
+git init .           -> Cria um repo git na pasta atual
+git status           -> Mostra o status do trabalho
+git add nome_arquivo -> Adiciona arquivo para ser comitado
+git commit -m "msg"  -> Faz commit do que estava para ser comitado
+git log              -> Mostra todos o histórico de commit
+git reset            -> Remove o arquivo do stage
+git branch           -> Mostra as branchs que existem e indica a branch de trabalho
+git branch -b "nome" -> Cria uma nova branch
+git checkout         -> Muda de branch
+git merge            -> Mescla as branchs
 
 
-Fluxo de Trabalho
+## Fluxo de Trabalho
 1 - Criar o diretório (pasta) do projeto
 2 - Iniciar o git dentro do diretório criado (git init .)
 3 - Edita ou criar arquivos
