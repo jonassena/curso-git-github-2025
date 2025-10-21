@@ -3,6 +3,11 @@ git status           -> mostra o status do trabalho
 git add nome_arquivo -> adiciona arquivo para ser comitado
 git commit -m "msg"  -> faz commit do que estava para ser comitado
 git log              -> mostra todos o histórico de commit
+git reset            -> remove o arquivo do stage
+git branch           -> mostra as branchs que existem e indica a branch de trabalho
+git branch -b "nome" -> cria uma nova branch
+git checkout         -> muda de branch
+git merge            -> mescla as branchs
 
 
 Fluxo de Trabalho
